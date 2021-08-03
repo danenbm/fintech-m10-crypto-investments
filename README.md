@@ -2,7 +2,7 @@
 
 This Jupyter notebook provides an analysis of cryptocurrency investments based on market data.
 
-First, it uses the K-Means algorithm (with k=4) to provide cluster various cryptocurrencies by their performance during different time periods.
+First, it uses the K-Means algorithm (with k=4) to cluster various cryptocurrencies by their performance during different time periods.
 
 Next, it uses the Elbow Curve heuristic to find the optimal value of k, and then uses Principal Component Analysis (PCA) to reduce the dimensions of the data into 3 clusters.
 
